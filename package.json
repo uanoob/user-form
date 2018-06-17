@@ -1,0 +1,11 @@
+{
+  "name": "user-form",
+  "version": "1.0.0",
+  "description": "Regular Expressions User Form Project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "uanoob",
+  "license": "ISC"
+}
